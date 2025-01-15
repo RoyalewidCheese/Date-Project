@@ -15,7 +15,7 @@ const handleYesClick = () => {
 
   // Define predefined romantic date ideas
   const dateIdeas = [
-    "We staying in college or you got a date spot near college?",
+    "We staying in school or you got a date spot near school?",
 
     // Add more date ideas as needed
   ];
